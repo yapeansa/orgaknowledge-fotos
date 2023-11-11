@@ -1,0 +1,58 @@
+{
+    "pessoas": [
+        {
+            "nome": "Maria Gaetana Agnesi",
+            "cargo": "Matemática Italiana",
+            "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Maria_Gaetana_Agnesi.jpg/200px-Maria_Gaetana_Agnesi.jpg",
+            "area": "Ciência"
+        },
+        {
+            "nome": "Marie-Sophie Germain",
+            "cargo": "Matemática Francesa",
+            "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Germain.jpeg/200px-Germain.jpeg",
+            "area": "Ciência"
+        },
+        {
+            "nome": "Irène Joliot-Curie",
+            "cargo": "Física Francesa",
+            "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Joliot-curie.jpg/200px-Joliot-curie.jpg",
+            "area": "Ciência"
+        },
+        {
+            "nome": "Rosalba Carriera",
+            "cargo": "Pintora Veneziana",
+            "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Rosalba_Carriera_Self-portrait.jpg/200px-Rosalba_Carriera_Self-portrait.jpg",
+            "area": "Artes"
+        },
+        {
+            "nome": "Madame Lebrun",
+            "cargo": "Pintora Francesa",
+            "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Lebrun%2C_Self-portrait.jpg/280px-Lebrun%2C_Self-portrait.jpg",
+            "area": "Artes"
+        },
+        {
+            "nome": "Giuditta Pasta",
+            "cargo": "Cantora de Ópera",
+            "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Giuditta_pasta.jpg/200px-Giuditta_pasta.jpg",
+            "area": "Artes"
+        },
+        {
+            "nome": "Simone de Beauvoir",
+            "cargo": "Filósofa Francesa",
+            "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Simone_de_Beauvoir2.png/220px-Simone_de_Beauvoir2.png",
+            "area": "Filosofia"
+        },
+        {
+            "nome": "Hipátia",
+            "cargo": "Filósofa Grega",
+            "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Hypatia_portrait.png/200px-Hypatia_portrait.png",
+            "area": "Filosofia"
+        },
+        {
+            "nome": "Clémence Royer",
+            "cargo": "Filósofa Francesa",
+            "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Clemence_Royer_1865_Nadar.jpg/220px-Clemence_Royer_1865_Nadar.jpg",
+            "area": "Filosofia"
+        }
+    ]
+}
